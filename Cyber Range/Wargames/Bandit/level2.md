@@ -4,7 +4,7 @@ The password for the next level is stored in a file called **spaces in this file
 
 
 
-# Idea
+# Ideas
 
 Files in Linux usually don't contain spaces, because it is a terrible thing.
 

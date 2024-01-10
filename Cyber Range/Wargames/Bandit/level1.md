@@ -4,7 +4,7 @@ The password for the next level is stored in a file called **-** located in the 
 
 
 
-# Idea
+# Ideas
 
 the file named `-`, when we use `cat -`, it is wrong operation, so we use `cat ./-`
 
