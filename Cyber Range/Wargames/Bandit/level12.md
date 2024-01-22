@@ -5,3 +5,7 @@ The password for the next level is stored in the file **data.txt**, which is a h
 
 
 # Ideas
+
+
+
+The password is wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
