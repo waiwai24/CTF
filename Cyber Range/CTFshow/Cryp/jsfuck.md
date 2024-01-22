@@ -32,6 +32,10 @@ jsfuck源于一门编程语言brainfuck，其主要的思想就是只使用8种�
 
 JavaScript代码可以直接在游览器的 Console（控制台运行），输入 JavaScript 代码，并立即看到代码执行结果或输出信息
 
+可在线网站：
+
+http://www.hiencode.com/jsfuck.html
+
 输出：
 
 ```
